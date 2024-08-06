@@ -1,5 +1,5 @@
 import 'package:blogclub/gen/fonts.gen.dart';
-import 'package:blogclub/home.dart';
+import 'package:blogclub/splash.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
@@ -70,23 +70,25 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         useMaterial3: false,
       ),
-      home: const Stack(
-        children: [
-          Positioned.fill(
-            child: HomeScreen(),
-          ),
-          Positioned(
-            bottom: 0,
-            right: 0,
-            left: 0,
-            child: _BottomNavigation(),
-          )
-        ],
-      ),
+      // home: const Stack(
+      //   children: [
+      //     Positioned.fill(
+      //       child: HomeScreen(),
+      //     ),
+      //     Positioned(
+      //       bottom: 0,
+      //       right: 0,
+      //       left: 0,
+      //       child: _BottomNavigation(),
+      //     )
+      //   ],
+      // ),
+      home: const SplashScreen(),
     );
   }
 }
 
+// ignore: unused_element
 class _BottomNavigation extends StatelessWidget {
   const _BottomNavigation();
 
