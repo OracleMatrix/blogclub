@@ -1,7 +1,9 @@
-# blogclub
+# BlogClub
 
 A fully functional Flutter app for a blog club, featuring a modern and visually appealing design. The app includes the following features:
 
+* A splash screen
+* An onboarding screen
 * A home screen with a carousel of categories, a list of stories, and a list of latest news posts
 * A bottom navigation bar with five items: Home, Articles, Search, and Menu
 * A category list with a carousel of items, each with a gradient background and a image
@@ -31,3 +33,5 @@ To run the app, clone the repository and run flutter pub get to install the depe
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to the app, please fork the repository and submit a pull request with your changes.
+
+Note: The packages used in this app are going to get updates. Make sure to check for updates and update them accordingly.
