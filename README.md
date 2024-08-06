@@ -19,6 +19,9 @@ The app uses the following packages:
 ## ScreenShot
 ![Alt text](https://github.com/OracleMatrix/blogclub/blob/main/Screenshot_1722939474.png?raw=true "Optional Title")
 
+## Video
+![](https://github.com/OracleMatrix/blogclub/blob/main/untitled-ezgif.com-video-to-gif-converter.gif)
+
 ## Getting Started
 
 To run the app, clone the repository and run flutter pub get to install the dependencies. Then, run flutter run to launch the app on an emulator or physical device.
