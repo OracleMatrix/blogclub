@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     const primaryTextColor = Color(0xff0D253C);
     const secondaryTextColor = Color(0xff2D4379);
-    // const primaryColor = Color(0xff376AED);
+    const primaryColor = Color(0xff376AED);
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'BlogClub',
@@ -67,7 +67,12 @@ class MyApp extends StatelessWidget {
             fontSize: 14,
           ),
         ),
-        primarySwatch: Colors.blue,
+        colorScheme: const ColorScheme.light(
+          primary: primaryColor,
+          onPrimary: Colors.white,
+          onSurface: Colors.white,
+          surface: Color(0xffFBFCFF),
+        ),
         useMaterial3: false,
       ),
       // home: const Stack(
