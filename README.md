@@ -20,7 +20,7 @@ The app uses the following packages:
 
 ## Design Credits
 
-The UI design of this app was inspired by the amazing work of [Mehwish Afzal khan] on Dribbble: https://dribbble.com/shots/24329708-Blogclub-Blogging-App. I just brought the design to life with Flutter!
+The UI design of this app was inspired by the amazing work of Mehwish Afzal khan on Dribbble: https://dribbble.com/shots/24329708-Blogclub-Blogging-App. I just brought the design to life with Flutter!
 
 ## ScreenShot
 ![Alt text](https://github.com/OracleMatrix/blogclub/blob/main/Screenshot_1722981086.png?raw=true "Optional Title")
@@ -38,6 +38,6 @@ To run the app, clone the repository and run flutter pub get to install the depe
 
 Contributions are welcome! If you'd like to contribute to the app, please fork the repository and submit a pull request with your changes.
 
-## Note: 
+## Note 
 
 This project is actively maintained and updated. Please check for updates regularly to ensure you have the latest version.
