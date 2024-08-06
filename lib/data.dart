@@ -41,6 +41,13 @@ class PostData {
       required this.imageFileName});
 }
 
+class OnBoardingItem {
+  final String title;
+  final String description;
+
+  OnBoardingItem(this.title, this.description);
+}
+
 class AppDatabase {
   static List<StoryData> get stories {
     return [
@@ -123,7 +130,7 @@ class AppDatabase {
           isBookmarked: false,
           likes: '3.1k',
           time: '1hr ago',
-          imageFileName: 'small_post_2.jpg'),
+          imageFileName: 'small_post_1.jpg'),
       PostData(
           id: 0,
           title: 'MacBook Pro with M1 Pro and M1 Max review',
@@ -131,7 +138,7 @@ class AppDatabase {
           isBookmarked: false,
           likes: '1.2k',
           time: '2hr ago',
-          imageFileName: 'small_post_1.jpg'),
+          imageFileName: 'small_post_2.jpg'),
       PostData(
           id: 2,
           title: 'Step design sprint for UX beginner',
@@ -141,5 +148,14 @@ class AppDatabase {
           time: '41hr ago',
           imageFileName: 'small_post_3.jpg'),
     ];
+  }
+
+  static List<OnBoardingItem> get onBoardingItems {
+    List<OnBoardingItem> items = [];
+    for (var i = 0; i < 4; i++) {
+      items.add(OnBoardingItem('Read the article you want instantly',
+          'You can read thousands of articles on Blog Club, save them in the application and share them with your loved ones.'));
+    }
+    return items;
   }
 }
