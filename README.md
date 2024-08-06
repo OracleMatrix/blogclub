@@ -2,7 +2,7 @@
 
 A fully functional Flutter app for a blog club, featuring a modern and visually appealing design. The app includes the following features:
 
-*. A home screen with a carousel of categories, a list of stories, and a list of latest news posts
+* . A home screen with a carousel of categories, a list of stories, and a list of latest news posts
 A bottom navigation bar with five items: Home, Articles, Search, and Menu
 A category list with a carousel of items, each with a gradient background and a image
 A story list with a horizontal list of items, each with a profile image and a name
