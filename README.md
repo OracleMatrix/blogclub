@@ -16,6 +16,9 @@ The app uses the following packages:
 * flutter/cupertino for the Cupertino-style icons
 * The app is built using Flutter 2.x and is compatible with Android and iOS devices.
 
+## ScreenShot
+![Alt text](https://github.com/OracleMatrix/blogclub/blob/main/Screenshot_1722939474.png?raw=true "Optional Title")
+
 ## Getting Started
 
 To run the app, clone the repository and run flutter pub get to install the dependencies. Then, run flutter run to launch the app on an emulator or physical device.
