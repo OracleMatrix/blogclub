@@ -1,15 +1,17 @@
 # BlogClub
 
-A fully functional Flutter app for a blog club, featuring a modern and visually appealing design. The app includes the following features:
+A Flutter app for a blog club, featuring a modern and visually appealing design. The app includes the following features:
 
 * A splash screen
 * An onboarding screen
+* An authentication screen with login and sign up pages
 * A home screen with a carousel of categories, a list of stories, and a list of latest news posts
 * A bottom navigation bar with five items: Home, Articles, Search, and Menu
 * A category list with a carousel of items, each with a gradient background and a image
 * A story list with a horizontal list of items, each with a profile image and a name
 * A post list with a vertical list of items, each with an image, title, caption, likes, and time
 * A detailed post view with a image, title, caption, likes, and time
+* with nice animations
 
 The app uses the following packages:
 
