@@ -1,5 +1,5 @@
+import 'package:blogclub/article.dart';
 import 'package:blogclub/gen/fonts.gen.dart';
-import 'package:blogclub/splash.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
@@ -26,6 +26,15 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'BlogClub',
       theme: ThemeData(
+        snackBarTheme: const SnackBarThemeData(
+          backgroundColor: primaryColor,
+        ),
+        appBarTheme: const AppBarTheme(
+          titleSpacing: 32,
+          elevation: 0,
+          backgroundColor: Colors.white,
+          foregroundColor: primaryTextColor,
+        ),
         textButtonTheme: TextButtonThemeData(
           style: ButtonStyle(
             textStyle: WidgetStateProperty.all(
@@ -88,7 +97,7 @@ class MyApp extends StatelessWidget {
       //     )
       //   ],
       // ),
-      home: const SplashScreen(),
+      home: const ArticleScreen(),
     );
   }
 }
