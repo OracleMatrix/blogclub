@@ -27,6 +27,8 @@ The UI design of this app was inspired by the amazing work of Mehwish Afzal khan
 
 ![Alt text](https://github.com/OracleMatrix/blogclub/blob/main/Screenshot_1722939474.png?raw=true "Optional Title")
 
+![Alt text](https://github.com/OracleMatrix/blogclub/blob/main/Screenshot_1723027709.png?raw=true "Optional Title")
+
 ## Gif
 ![](https://github.com/OracleMatrix/blogclub/blob/main/untitled-ezgif.com-video-to-gif-converter.gif)
 
