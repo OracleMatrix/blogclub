@@ -127,7 +127,7 @@ class _Login extends StatelessWidget {
           height: 8,
         ),
         Text(
-          "Sign in with your acount",
+          "Sign in with your account",
           style: themeData.textTheme.titleMedium,
         ),
         const SizedBox(
