@@ -6,6 +6,7 @@ A Flutter app for a blog club, featuring a modern and visually appealing design.
 * An onboarding screen
 * An authentication screen with login and sign up pages
 * A home screen with a carousel of categories, a list of stories, and a list of latest news posts
+* An article page with Displays the article title, author, and content, a background image for the article, Floating buttons to like and share the article, A button to bookmark the article, Displays a snack bar with a message when the user interacts with the buttons
 * A bottom navigation bar with five items: Home, Articles, Search, and Menu
 * A category list with a carousel of items, each with a gradient background and a image
 * A story list with a horizontal list of items, each with a profile image and a name
@@ -30,6 +31,8 @@ The UI design of this app was inspired by the amazing work of Mehwish Afzal khan
 ![Alt text](https://github.com/OracleMatrix/blogclub/blob/main/Screenshot_1722939474.png?raw=true "Optional Title")
 
 ![Alt text](https://github.com/OracleMatrix/blogclub/blob/main/Screenshot_1723028060.png?raw=true "Optional Title")
+
+![Alt text](https://github.com/OracleMatrix/blogclub/blob/main/Screenshot_1723043885.png?raw=true "Optional Title")
 
 ## Gif
 ![](https://github.com/OracleMatrix/blogclub/blob/main/untitled-ezgif.com-video-to-gif-converter.gif)
