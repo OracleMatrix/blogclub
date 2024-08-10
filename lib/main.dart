@@ -1,5 +1,5 @@
-import 'package:blogclub/article.dart';
 import 'package:blogclub/gen/fonts.gen.dart';
+import 'package:blogclub/profile.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
@@ -97,7 +97,7 @@ class MyApp extends StatelessWidget {
       //     )
       //   ],
       // ),
-      home: const ArticleScreen(),
+      home: const ProfileScreen(),
     );
   }
 }
