@@ -130,7 +130,7 @@ class AppDatabase {
           isBookmarked: false,
           likes: '3.1k',
           time: '1hr ago',
-          imageFileName: 'small_post_1.jpg'),
+          imageFileName: 'small_post_2.jpg'),
       PostData(
           id: 0,
           title: 'MacBook Pro with M1 Pro and M1 Max review',
@@ -138,14 +138,14 @@ class AppDatabase {
           isBookmarked: false,
           likes: '1.2k',
           time: '2hr ago',
-          imageFileName: 'small_post_2.jpg'),
+          imageFileName: 'small_post_1.jpg'),
       PostData(
           id: 2,
           title: 'Step design sprint for UX beginner',
           caption: 'Ux Design',
           isBookmarked: true,
           likes: '2k',
-          time: '41hr ago',
+          time: '1d ago',
           imageFileName: 'small_post_3.jpg'),
     ];
   }
