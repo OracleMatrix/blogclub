@@ -87,19 +87,6 @@ class MyApp extends StatelessWidget {
         ),
         useMaterial3: false,
       ),
-      // home: const Stack(
-      //   children: [
-      //     Positioned.fill(
-      //       child: HomeScreen(),
-      //     ),
-      //     Positioned(
-      //       bottom: 0,
-      //       right: 0,
-      //       left: 0,
-      //       child: _BottomNavigation(),
-      //     )
-      //   ],
-      // ),
       home: const MainScreen(),
     );
   }
