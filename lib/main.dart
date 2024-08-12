@@ -200,28 +200,30 @@ class SearchScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      body: SafeArea(
-        child: Column(
-          children: [
-            Padding(
-              padding: const EdgeInsets.only(top: 16, left: 24, right: 24),
-              child: TextField(
-                decoration: InputDecoration(
-                  hintText: "Search...",
-                  hintStyle: Theme.of(context).textTheme.bodySmall,
+    return SingleChildScrollView(
+      child: Scaffold(
+        body: SafeArea(
+          child: Column(
+            children: [
+              Padding(
+                padding: const EdgeInsets.only(top: 16, left: 24, right: 24),
+                child: TextField(
+                  decoration: InputDecoration(
+                    hintText: "Search...",
+                    hintStyle: Theme.of(context).textTheme.bodySmall,
+                  ),
                 ),
               ),
-            ),
-            Expanded(
-              child: Center(
-                child: Text(
-                  "Search Screen",
-                  style: Theme.of(context).textTheme.headlineMedium,
+              Expanded(
+                child: Center(
+                  child: Text(
+                    "Search Screen",
+                    style: Theme.of(context).textTheme.headlineMedium,
+                  ),
                 ),
               ),
-            ),
-          ],
+            ],
+          ),
         ),
       ),
     );
