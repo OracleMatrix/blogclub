@@ -35,7 +35,7 @@ A Flutter app for a blog club, featuring a modern and visually appealing design.
 * Custom text scale factor for different types of text
 * And...!
 
-The app uses the following packages:
+## The app uses the following packages:
 
 * carousel_slider for the category carousel
 * dotted_border for the dotted border around the profile image
@@ -47,19 +47,19 @@ The app uses the following packages:
 The UI design of this app was inspired by the amazing work of Mehwish Afzal khan on Dribbble: https://dribbble.com/shots/24329708-Blogclub-Blogging-App. I just brought the design to life with Flutter!
 
 ## ScreenShot
-* OnBoarding screen
+## 
 ![Alt text](https://github.com/OracleMatrix/blogclub/blob/main/Screenshot_1722981086.png?raw=true "Optional Title")
 
-* Home Screen
+##
 ![Alt text](https://github.com/OracleMatrix/blogclub/blob/main/Screenshot_1723473289.png?raw=true "Optional Title")
 
-* Authentication Screen
+##
 ![Alt text](https://github.com/OracleMatrix/blogclub/blob/main/Screenshot_1723028060.png?raw=true "Optional Title")
 
-* Article Screen
+## 
 ![Alt text](https://github.com/OracleMatrix/blogclub/blob/main/Screenshot_1723473294.png?raw=true "Optional Title")
 
-* Menu Screen (Profile)
+## 
 ![Alt text](https://github.com/OracleMatrix/blogclub/blob/main/Screenshot_1723473301.png?raw=true "Optional Title")
 
 ## Gif
