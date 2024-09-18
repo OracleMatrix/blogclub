@@ -48,10 +48,10 @@ The UI design of this app was inspired by the amazing work of Mehwish Afzal khan
 
 ## Screenshots
 
-| Home | Article List | Article Details |
+| Home | Articles | Login and SignUp |
 |---|---|---|
 | ![Alt text](https://github.com/OracleMatrix/blogclub/blob/main/Screenshot_1722981086.png?raw=true "Optional Title") | ![Alt text](https://github.com/OracleMatrix/blogclub/blob/main/Screenshot_1723473289.png?raw=true "Optional Title") | ![Alt text](https://github.com/OracleMatrix/blogclub/blob/main/Screenshot_1723028060.png?raw=true "Optional Title") |
-| Author Profile | Search |  |
+| Article Details | Author Profile |  |
 | ![Alt text](https://github.com/OracleMatrix/blogclub/blob/main/Screenshot_1723473294.png?raw=true "Optional Title") | ![Alt text](https://github.com/OracleMatrix/blogclub/blob/main/Screenshot_1723473301.png?raw=true "Optional Title") |  |
 
 ## Gif
