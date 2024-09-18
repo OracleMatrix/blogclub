@@ -46,23 +46,16 @@ A Flutter app for a blog club, featuring a modern and visually appealing design.
 
 The UI design of this app was inspired by the amazing work of Mehwish Afzal khan on Dribbble: https://dribbble.com/shots/24329708-Blogclub-Blogging-App. I just brought the design to life with Flutter!
 
-## ScreenShot
-## 
-![Alt text](https://github.com/OracleMatrix/blogclub/blob/main/Screenshot_1722981086.png?raw=true "Optional Title")
+## Screenshots
 
-##
-![Alt text](https://github.com/OracleMatrix/blogclub/blob/main/Screenshot_1723473289.png?raw=true "Optional Title")
-
-##
-![Alt text](https://github.com/OracleMatrix/blogclub/blob/main/Screenshot_1723028060.png?raw=true "Optional Title")
-
-## 
-![Alt text](https://github.com/OracleMatrix/blogclub/blob/main/Screenshot_1723473294.png?raw=true "Optional Title")
-
-## 
-![Alt text](https://github.com/OracleMatrix/blogclub/blob/main/Screenshot_1723473301.png?raw=true "Optional Title")
+| Home | Article List | Article Details |
+|---|---|---|
+| ![Alt text](https://github.com/OracleMatrix/blogclub/blob/main/Screenshot_1722981086.png?raw=true "Optional Title") | ![Alt text](https://github.com/OracleMatrix/blogclub/blob/main/Screenshot_1723473289.png?raw=true "Optional Title") | ![Alt text](https://github.com/OracleMatrix/blogclub/blob/main/Screenshot_1723028060.png?raw=true "Optional Title") |
+| Author Profile | Search |  |
+| ![Alt text](https://github.com/OracleMatrix/blogclub/blob/main/Screenshot_1723473294.png?raw=true "Optional Title") | ![Alt text](https://github.com/OracleMatrix/blogclub/blob/main/Screenshot_1723473301.png?raw=true "Optional Title") |  |
 
 ## Gif
+
 ![](https://github.com/OracleMatrix/blogclub/blob/main/untitled-ezgif.com-video-to-gif-converter.gif)
 
 ## Getting Started
